@@ -1,5 +1,5 @@
 # DandyHacks2022 - [Planet Guinea Pig](https://devpost.com/software/really-cool-space-game)
-## [@ryanmattt](https://github.com/ryanmattt), [@Docitharios](https://github.com/Docitharios), [@itislibby](https://github.com/itislibby) and [@Nafix](https://github.com/SarahX)
+## [@ryen-dev](https://github.com/ryen-dev), [@Docitharios](https://github.com/Docitharios), [@itislibby](https://github.com/itislibby) and [@Nafix](https://github.com/SarahX)
 
 ## Project Info
 Won **2nd place** in the Video Game Track  
